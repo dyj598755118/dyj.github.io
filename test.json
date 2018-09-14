@@ -4,5 +4,6 @@
 	req: '123',
 	res: 'gitgood',
 	add: 'none'
-	resetHEAD:'dfasd'
+	resetHEAD:'dfasd',
+	master: "tianjaiyigemaster"
 }
