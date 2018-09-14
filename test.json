@@ -5,5 +5,6 @@
 	res: 'gitgood',
 	add: 'none'
 	resetHEAD:'dfasd',
-	master: "tianjaiyigemaster"
+	master: "tianjaiyigemaster",
+	dev:'xinjiayigedev'
 }
