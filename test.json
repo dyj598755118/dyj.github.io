@@ -8,5 +8,6 @@
 	master: "tianjaiyigemaster",
 	dev:'xinjiayigedev',
 	nooff:'--no--ff',
-	issue001: 'issue001'
+	issue001: 'issue001',
+	bug:'bugfenzhi'
 }
