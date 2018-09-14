@@ -6,5 +6,6 @@
 	add: 'none'
 	resetHEAD:'dfasd',
 	master: "tianjaiyigemaster",
-	dev:'xinjiayigedev'
+	dev:'xinjiayigedev',
+	nooff:'--no--ff'
 }
