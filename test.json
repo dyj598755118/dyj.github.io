@@ -7,5 +7,6 @@
 	resetHEAD:'dfasd',
 	master: "tianjaiyigemaster",
 	dev:'xinjiayigedev',
-	nooff:'--no--ff'
+	nooff:'--no--ff',
+	bug:'bugfenzhi'
 }
