@@ -1,13 +1,5 @@
 {
 	head: 'nihao',
 	body: 'body',
-	req: '123',
-	res: 'gitgood',
-	add: 'none'
-	resetHEAD:'dfasd',
-	master: "tianjaiyigemaster",
-	dev:'xinjiayigedev',
-	nooff:'--no--ff',
-	issue001: 'issue001',
-	bug:'bugfenzhi'
+	req: '123'
 }
